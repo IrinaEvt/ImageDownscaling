@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irrae\\source\\repos\\ReactProject\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
+      "projectUniqueName": "C:\\Users\\irrae\\source\\repos\\ImageDownscaling\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
       "projectName": "ImageDownsizerParallel",
-      "projectPath": "C:\\Users\\irrae\\source\\repos\\ReactProject\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
+      "projectPath": "C:\\Users\\irrae\\source\\repos\\ImageDownscaling\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
       "packagesPath": "C:\\Users\\irrae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irrae\\source\\repos\\ReactProject\\ImageDownsizerParallel\\ImageDownsizerParallel\\obj\\",
+      "outputPath": "C:\\Users\\irrae\\source\\repos\\ImageDownscaling\\ImageDownsizerParallel\\ImageDownsizerParallel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

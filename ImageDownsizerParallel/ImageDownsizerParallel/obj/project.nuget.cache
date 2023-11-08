@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2/1Hqs+85v1yiuVeohjoj8REaMRMgvg/OacCI7OKtPamp5k88NocSRVOqfQ5rdNOT/Z+2G1Vdnz+/mIT46tfw==",
+  "dgSpecHash": "P3O2npAmjhhvS4MgTa1MJ2HP5UAAnRoOxJ2FRX7g8NG9m1wNJeHA86bX2TXHzp4W4eV8yY0J2L3FcOA1t7zz2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irrae\\source\\repos\\ReactProject\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
+  "projectFilePath": "C:\\Users\\irrae\\source\\repos\\ImageDownscaling\\ImageDownsizerParallel\\ImageDownsizerParallel\\ImageDownsizerParallel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

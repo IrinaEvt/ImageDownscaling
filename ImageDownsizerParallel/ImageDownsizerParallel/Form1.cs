@@ -30,10 +30,22 @@ namespace ImageDownsizerParallel
 
         private void buttonDownsizeImage_Click(object sender, EventArgs e)
         {
-          
-            int scalePercentage = Int32.Parse(percentageTB.Text);
-          
-            double scale = (double)scalePercentage / 100;
+
+            // int scalePercentage = Int32.Parse(percentageTB.Text);
+
+            //  double scale = (double)scalePercentage / 100;
+
+            int scalePercentage;
+            double scale = 0.0;
+            if (int.TryParse(percentageTB.Text, out scalePercentage))
+            {
+                scale = (double)scalePercentage / 100;
+            }
+            else
+            {
+                MessageBox.Show("Invalid input. Please enter a valid integer.");
+            }
+
 
 
 

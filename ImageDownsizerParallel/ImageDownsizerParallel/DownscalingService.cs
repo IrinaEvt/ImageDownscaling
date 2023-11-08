@@ -18,7 +18,6 @@ namespace ImageDownsizerParallel
             this.Image = Image;
         }
 
-        //public byte[] ConvertImageTo2DArray(Bitmap image)
         public byte[] ConvertImageToArray()
         {
             if (Image == null)
@@ -53,7 +52,6 @@ namespace ImageDownsizerParallel
             return downsizedBitmap;
         }
 
-        // int width, int height
         public byte[] DownscaleImage(byte[] imageData, double scale)
         {
 
