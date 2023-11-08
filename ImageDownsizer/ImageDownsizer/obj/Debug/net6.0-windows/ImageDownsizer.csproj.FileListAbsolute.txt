@@ -1,0 +1,17 @@
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.csproj.AssemblyReference.cache
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.Form1.resources
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.csproj.GenerateResource.cache
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.AssemblyInfoInputs.cache
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.AssemblyInfo.cs
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ImageDownsizer.exe
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ImageDownsizer.deps.json
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ImageDownsizer.runtimeconfig.json
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ImageDownsizer.dll
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ref\ImageDownsizer.dll
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\bin\Debug\net6.0-windows\ImageDownsizer.pdb
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.dll
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ref\ImageDownsizer.dll
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.pdb
+C:\Users\irrae\source\repos\ReactProject\ImageDownsizer\ImageDownsizer\obj\Debug\net6.0-windows\ImageDownsizer.genruntimeconfig.cache
