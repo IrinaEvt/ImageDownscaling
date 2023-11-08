@@ -41,9 +41,12 @@ namespace ImageDownsizerParallel
             {
                 scale = (double)scalePercentage / 100;
             }
-            else
+            else if(percentageTB.Text is null)
             {
-                MessageBox.Show("Invalid input. Please enter a valid integer.");
+                MessageBox.Show("Invalid input. Please enter a valid percentage.");
+            }
+            else {
+                MessageBox.Show("Invalid input. Please enter a valid percentage.");
             }
 
 

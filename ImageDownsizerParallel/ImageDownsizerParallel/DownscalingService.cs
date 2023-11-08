@@ -95,11 +95,13 @@ namespace ImageDownsizerParallel
                 thread.Start();
             }
 
-        /*    foreach (var thread in threads)
+
+            // necessary, because smaller images are visualized before the bytes are calculated 
+            foreach (var thread in threads)
             {
                 thread.Join();
             }
-           */
+           
            
             return outputData;
         }

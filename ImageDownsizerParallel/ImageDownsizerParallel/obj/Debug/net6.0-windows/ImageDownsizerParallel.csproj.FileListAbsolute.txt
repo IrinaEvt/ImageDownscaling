@@ -15,7 +15,6 @@ C:\Users\irrae\source\repos\ReactProject\ImageDownsizerParallel\ImageDownsizerPa
 C:\Users\irrae\source\repos\ReactProject\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ref\ImageDownsizerParallel.dll
 C:\Users\irrae\source\repos\ReactProject\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.pdb
 C:\Users\irrae\source\repos\ReactProject\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.genruntimeconfig.cache
-C:\Users\irrae\source\repos\ImageDownscaling\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.csproj.AssemblyReference.cache
 C:\Users\irrae\source\repos\ImageDownscaling\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.Form1.resources
 C:\Users\irrae\source\repos\ImageDownscaling\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.csproj.GenerateResource.cache
 C:\Users\irrae\source\repos\ImageDownscaling\ImageDownsizerParallel\ImageDownsizerParallel\obj\Debug\net6.0-windows\ImageDownsizerParallel.GeneratedMSBuildEditorConfig.editorconfig
